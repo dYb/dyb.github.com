@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll Quick Start"
 description: "翻译——jekyll快速入门"
-category: 
+category: jekyll
 tags: [jekyll, quick start]
 ---
 {% include JB/setup %}
