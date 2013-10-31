@@ -9,7 +9,7 @@ tags: [workflow, front-end]
 
 2013_10_30
 
-首先感谢[@ijes](http://www.ijser.cn/),这篇文章介绍的工作流程以及使用到的FED工具，都是他的工作成果，这里拾人牙慧整理下。
+首先感谢[@ijse](http://www.ijser.cn/),这篇文章介绍的工作流程以及使用到的FED工具，都是他的工作成果，这里拾人牙慧整理下。
 
 ### 前后端的工作配合流程
 
@@ -43,7 +43,7 @@ tags: [workflow, front-end]
 2.	安装fed工具`npm install fed -g`
 3.	启动服务`cd webstart && fed server -w ./fedConfig.js`
 4.	访问 http://localhost:3000
-5.  部署 `grunt dist`
+5.  部署 `npm install & grunt dist`
 
 文档结构看起来是这样子的  
 
