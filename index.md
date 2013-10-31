@@ -1,7 +1,7 @@
 ---
 layout: page
 title: dYb
-tagline: Supporting tagline
+tagline: 不让生活磨灭我们的个性
 ---
 {% include JB/setup %}
 

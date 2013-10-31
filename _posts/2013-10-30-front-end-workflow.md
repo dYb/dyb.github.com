@@ -34,7 +34,7 @@ tags: [workflow, front-end]
 *	明确需求，对接口的过程中，双方对需求都需要理解到位
 *	一键部署，开发时可以使用coffee、less，而不需要手动编译
 
-为了完成提到的实现方案，首先要有个解析ftl的工具，再次感谢[@ijes](http://www.ijser.cn/)的辛苦工作，开发了一个[FED](https://github.com/ijse/FED)工具，这是一个基于node实现的ftl解析工具，更多内容请移步[这里](https://github.com/ijse/FED/wiki)，有了它我们的问题就可以解决了。
+为了完成提到的实现方案，首先要有个解析ftl的工具，再次感谢[@ijse](http://www.ijser.cn/)的辛苦工作，开发了一个[FED](https://github.com/ijse/FED)工具，这是一个基于node实现的ftl解析工具，更多内容请移步[这里](https://github.com/ijse/FED/wiki)，有了它我们的问题就可以解决了。
 
 ## 使用步骤
 具体可参考[这里](https://github.com/dYb/webstart)
