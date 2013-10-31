@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HOME!
+title: dYb
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
